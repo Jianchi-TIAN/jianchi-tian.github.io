@@ -14,50 +14,34 @@ Education
 * Ph.D in University of Chinese of Academy of Sciences, 2021 (2026)
 * B.S. in Nanchang University, 2017
 
-Work experience
+Honors and Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **2024** Academic Scholarship, University of Chinese Academy of Sciences
+* **2023** Excellent Merit Student, University of Chinese Academy of Sciences
+* **2023** Merit Student, University of Chinese Academy of Sciences 
+* **2023** National Scholarship for Graduates, China 
+* **2023** Extraordinary Scholarship, Institute of  Psychology, Chinese Academy of Sciences
+* **2023** Academic Scholarship, University of Chinese Academy of Sciences
+* **2022** Director’s Scholarship, Institute of  Psychology, Chinese Academy of Sciences
+* **2022** Extraordinary Scholarship, Institute of  Psychology, Chinese Academy of Sciences
+* **2022** Merit Student, University of Chinese Academy of Sciences 
+* **2022** Academic Scholarship, University of Chinese Academy of Sciences
+* **2021** Undergraduate Scholarship, University of Chinese Academy of Sciences
+* **2021** Academic Scholarship, University of Chinese Academy of Sciences
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages: R, Python
+* Data Analysis Software: SPSS, Mplus, AMOS, Jamovi
+* Design Software: Psychopy, E-prime
   
-Talks
+Research Experiences
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* 3. **Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._
+* 2. **Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._
+* 1. **Collaborator**. China Provincial and ministerial-level scientific research training program. _Research on the construction of a dynamic assessment system for college students’ psychological crisis._
   
-Teaching
+Reviewers
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* _Scientific Reports_
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
