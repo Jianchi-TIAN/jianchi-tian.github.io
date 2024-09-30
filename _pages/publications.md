@@ -5,6 +5,7 @@ permalink: /Publications/
 author_profile: true
 redirect_from: 
   - /Publications/
+  - /Publications.html
 ---
 
 Journal Articles
