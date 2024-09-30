@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Journal Articles
----
+======
 17. **Tian, J.,** Li, Y., Sun, Y., Yang, B., & Chen, X. (2024). Warming climate apathy to mitigate the disparity in climate policy support across distinct income strata. _Energy Policy, 192_, 114245. **(SCI/SSCI, Q1, IF = 9.3)**
 16. **Tian, J.,** Gong, Y., Li, Y., Sun, Y., & Chen, X. (2023). Children-led environmental communication fosters their own and parents' conservation behavior. _Sustainable Production and Consumption, 42_, 322-334. **(SCI/SSCI, Q1, IF = 12.1)**
 15. **Tian, J.,** Gong, Y., Li, Y., Chen, X., Zhang, L., & Sun, Y. (2022). Can policy implementation increase public waste sorting behavior? The comparison between regions with and without waste sorting policy implementation in China. _Journal of Cleaner Production, 363_, 132401. **(SCI/SSCI, Q1, IF = 11.1)**
@@ -28,7 +28,7 @@ Journal Articles
 1. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (working paper) Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations.
 
 Conference Papers
----
+======
 3. Qi, Y., Fu, F., **Tian, J.,** & Sun, Y. (2024, October). Can AI Be Environmentally Responsible? A Comparative Study on the Pro-Environmental Portrait of ChatGPT and Chinese Respondents. In 2024 1st International Conference on Artificial Intelligence and Teacher Education (ICAITE).
 2. Fu, F., **Tian, J.,** Zhao, Z., Tong, Z., & Sun, Y. (2023, June). The Influence of Social Emotion Representation Framework on Residents’ Water-Saving Education Project. In 2023 4th International Conference on Education, Knowledge and Information Management (ICEKIM 2023) (pp. 822-827). Atlantis Press.
 1. Lun, X., **Tian, J.,** Zhao, Z., Tong, Z., & Sun, Y. (2022, November). Research on The Classification and Application of Social Emotional Information in Water-saving Education Based on Facial Recognition Technology. In 2022 3rd International Conference on Information Science and Education (ICISE-IE) (pp. 1-5). IEEE.
