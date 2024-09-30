@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Jianchi Tian"
 permalink: /sitemap/
 author_profile: true
 ---
