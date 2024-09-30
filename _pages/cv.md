@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in University of Chinese of Academy of Sciences, 2021 (2026)
+* Ph.D in University of Chinese of Academy of Sciences, 2021 (-2026)
 * B.S. in Nanchang University, 2017
 
 Honors and Awards
