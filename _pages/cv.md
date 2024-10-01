@@ -36,11 +36,9 @@ redirect_from:
   
 <span style="font-size: 0.8em;">Research Experiences</span>
 ======
-<ol start="3">
-  <li value="3">**Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._</li>
-  <li value="2">**Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._</li>
-  <li value="1">**Collaborator**. China Provincial and ministerial-level scientific research training program. _Research on the construction of a dynamic assessment system for college students’ psychological crisis._</li>
-</ol>
+  **Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._
+  **Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._
+  **Collaborator**. China Provincial and ministerial-level scientific research training program. _Research on the construction of a dynamic assessment system for college students’ psychological crisis._
 
 <span style="font-size: 0.8em;">Reviewers</span>
 ======
