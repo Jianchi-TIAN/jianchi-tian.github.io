@@ -11,7 +11,7 @@ I am a PhD candidate from [Institute of Psychology](http://english.psych.cas.cn/
 
 I am looking for a postdoctoral research fellow position from 2026.
 
-<span style="font-size: 0.8em;">My research interests include:<span>
+<span style="font-size: 0.8em;">My research interests include:</span>
 ======
 * Improve public's climate actions and policy support by using low-cost tools
 * Improve countries' climate actions by using behavioral experiments
