@@ -2,7 +2,8 @@
 title: "Publications"
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
-expert: 'Journal Articles
+expert: 
+'Journal Articles
 ======
   1. **Tian, J.,** Li, Y., Sun, Y., Yang, B., & Chen, X. (2024). Warming climate apathy to mitigate the disparity in climate policy support across distinct income strata. _Energy Policy, 192_, 114245. **(SCI/SSCI, Q1, IF = 9.3)**
   2. **Tian, J.,** Gong, Y., Li, Y., Sun, Y., & Chen, X. (2023). Children-led environmental communication fosters their own and parents' conservation behavior. _Sustainable Production and Consumption, 42_, 322-334. **(SCI/SSCI, Q1, IF = 12.1)**
