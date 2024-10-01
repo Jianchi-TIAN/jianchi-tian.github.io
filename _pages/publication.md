@@ -7,6 +7,7 @@ redirect_from:
   - /publication/
   - /publication.html
 ---
+<br><br>
 
 Journal Articles
 ======
@@ -27,6 +28,7 @@ Journal Articles
   15. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
   16. Li, Y., **Tian, J.,** & Sun, Y. (working paper) Perceived fairness during extreme weather events enhances public acceptability of climate policies.
   17. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (working paper) Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations.
+<br><br>
 
 Conferences Papers
 ======
