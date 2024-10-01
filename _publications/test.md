@@ -1,6 +1,5 @@
 ---
 collection: publications
-category: conferences
 permalink: /publication/test
 ---
 
