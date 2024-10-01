@@ -2,7 +2,7 @@
 title: "Publications 📰"
 collection: publications
 permalink: /publications/information
-category: Journal Articles
+category: manuscripts
 ---
 
 Journal Articles
