@@ -1,11 +1,11 @@
 ---
 layout: archieve
 title: "Publications"
-permalink: /Publications/
+permalink: /publications/
 author_profile: true
 redirect_from: 
-  - /Publications/
-  - /Publications.html
+  - /publications/
+  - /publications.html
 ---
 
 Journal Articles
