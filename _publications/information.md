@@ -2,6 +2,8 @@
 collection: publications
 permalink: /publications/information
 ---
+
+
 Journal Articles
 ======
   1. **Tian, J.,** Li, Y., Sun, Y., Yang, B., & Chen, X. (2024). Warming climate apathy to mitigate the disparity in climate policy support across distinct income strata. _Energy Policy, 192_, 114245. **(SCI/SSCI, Q1, IF = 9.3)** [[link]](https://doi.org/10.1016/j.enpol.2024.114245)
