@@ -2,6 +2,8 @@
 collection: publications
 permalink: /publications/information
 ---
+Journal Articles
+======
   1. **Tian, J.,** Li, Y., Sun, Y., Yang, B., & Chen, X. (2024). Warming climate apathy to mitigate the disparity in climate policy support across distinct income strata. _Energy Policy, 192_, 114245. **(SCI/SSCI, Q1, IF = 9.3)** [[link]](https://doi.org/10.1016/j.enpol.2024.114245)
   2. **Tian, J.,** Gong, Y., Li, Y., Sun, Y., & Chen, X. (2023). Children-led environmental communication fosters their own and parents' conservation behavior. _Sustainable Production and Consumption, 42_, 322-334. **(SCI/SSCI, Q1, IF = 12.1)** [[link]](https://doi.org/10.1016/j.spc.2023.10.006)
   3. **Tian, J.,** Gong, Y., Li, Y., Chen, X., Zhang, L., & Sun, Y. (2022). Can policy implementation increase public waste sorting behavior? The comparison between regions with and without waste sorting policy implementation in China. _Journal of Cleaner Production, 363_, 132401. **(SCI/SSCI, Q1, IF = 11.1)** [[link]](https://doi.org/10.1016/j.jclepro.2022.132401)
