@@ -7,13 +7,13 @@ redirect_from:
   - /cv/
   - /cv.html
 ---
-<br><br>
+
 <span class="small-text">Education</span>
 ======
 * Ph.D in University of Chinese of Academy of Sciences, 2021 (-2026)
 * B.S. in Nanchang University, 2017-2021
 
-Honors and Awards
+<span class="small-text">Honors and Awards</span>
 ======
 * **2024** Academic Scholarship, University of Chinese Academy of Sciences
 * **2023** Excellent Merit Student, University of Chinese Academy of Sciences
