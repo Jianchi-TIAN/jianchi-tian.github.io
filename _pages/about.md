@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate from [Institute of Psychology](http://english.psych.cas.cn/au/), [Chinese Academy of Sciences](https://english.cas.cn/) (CAS) and the Department of Psychology at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/). I obtained my BS in Apllied Psychology in 2021 from [Nanchang University](https://english.ncu.edu.cn/) (NCU).
+I am a PhD candidate from [Institute of Psychology](http://english.psych.cas.cn/au/){:target="_blank"}, [Chinese Academy of Sciences](https://english.cas.cn/){:target="_blank"} (CAS) and the Department of Psychology at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/){:target="_blank"} (UCAS). I obtained my BS in Apllied Psychology in 2021 from [Nanchang University](https://english.ncu.edu.cn/){:target="_blank"} (NCU).
 
 I am looking for a postdoctoral research fellow position from 2026.
 
