@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications 📰"
 collection: publications
 permalink: /publications/information
 ---
