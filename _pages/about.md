@@ -14,5 +14,5 @@ I am looking for a postdoctoral research fellow position from 2026.
 <span style="font-size: 0.8em;">My research interests include:</span>
 ======
 * Improving public's climate actions and policy support by using low-cost tools
-* Improving countries' climate actions by using behavioral experiments
+* Exploring how to improve countries' climate actions by using behavioral experiments
 * Covering inequality in public's climate change psychology and behaviors
