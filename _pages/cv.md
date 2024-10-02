@@ -48,12 +48,9 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
 
 <span style="font-size: 0.8em;">Professional Affiliations and Memberships</span>
 ======
+* _Chinese Psychological Society_
 
-<span style="font-size: 0.6em;">Reviewers</span>
-======
-* _Chinese Psychological Society (Member)_
-
-<span style="font-size: 0.6em;">Reviewers</span>
+<span style="font-size: 0.8em;">Reviewers</span>
 ======
 * _Scientific Reports_
   
