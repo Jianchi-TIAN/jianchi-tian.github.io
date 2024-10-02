@@ -21,6 +21,9 @@ redirect_from:
   9. Yue, D.#, Tong, Z.#, **Tian, J.,** Li, Y., Zhang, L., & Sun, Y. (2021). Anthropomorphic strategies promote wildlife conservation through empathy the moderation role of the public epidemic situation. _International Journal of Environmental Research and Public Health, 18_(7), 3565. **(SCI/SSCI, Q1, IF = 4.6)** [[link]](https://doi.org/10.3390/ijerph18073565){:target="_blank"}
   8. Sun, Y., Chen, X., Gong, Y., **Tian, J.,** Ji, Z., Li, Y., ... & Zhang, L. (2023). Progress and development suggestions for psychological research on climate change. _Bulletin of Chinese Academy of Sciences (Chinese Version), 38_(8), 1197-1211. [[link]](https://doi.org/10.16418/j.issn.1000-3045.20230610001){:target="_blank"}
   7. Long, Z., **Tian. J.,** Yang, J., Zhang, L., & Sun, Y. (2021). Study on Characteristics of Environmental Awareness Among Adolescents. _Environment Science and Management (In Chinese), 46_(4), 5-8.
+
+<span style="font-size: 0.8em;">Working Papers</span>
+======
   6. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
   5. **Tian, J.,** Gong, Y., Li, Y., Sun, Y. (working paper). Interpersonal environmental communication promotes pro-environmental behaviors: impression management in the interpersonal context.
   4. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support.
