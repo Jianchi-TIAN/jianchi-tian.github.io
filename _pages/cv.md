@@ -7,7 +7,7 @@ redirect_from:
   - /cv/
   - /cv.html
 ---
-You can download my full CV in PDF
+You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf).
 
 
 <span style="font-size: 0.8em;">Education</span>
