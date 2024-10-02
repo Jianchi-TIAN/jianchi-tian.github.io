@@ -7,7 +7,7 @@ redirect_from:
   - /cv/
   - /cv.html
 ---
-You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf).
+You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_blank"}.
 
 
 <span style="font-size: 0.8em;">Education</span>
