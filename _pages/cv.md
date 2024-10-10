@@ -18,6 +18,7 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
 
 <span style="font-size: 0.8em;">Honors and Awards</span>
 ======
+* **2024** National Scholarship for Graduates, China 
 * **2024** Academic Scholarship, University of Chinese Academy of Sciences
 * **2023** Excellent Merit Student, University of Chinese Academy of Sciences
 * **2023** Merit Student, University of Chinese Academy of Sciences 
