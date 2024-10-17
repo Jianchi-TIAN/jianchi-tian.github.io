@@ -27,7 +27,7 @@ redirect_from:
   15. Sun, Y., Chen, X., Gong, Y., **Tian, J.,** Ji, Z., Li, Y., ... & Zhang, L. (2023). Progress and development suggestions for psychological research on climate change. _Bulletin of Chinese Academy of Sciences (Chinese Version), 38_(8), 1197-1211. [[link]](https://doi.org/10.16418/j.issn.1000-3045.20230610001){:target="_blank"}
   16. Long, Z., **Tian. J.,** Yang, J., Zhang, L., & Sun, Y. (2021). Study on Characteristics of Environmental Awareness Among Adolescents. _Environment Science and Management (In Chinese), 46_(4), 5-8.
   17. Li, Y., Liu, H., **Tian, J.,** Gong, Y., Sun, Y. (submitted) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Journal of Environmental Psychology_
-  18. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (submitted) Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations.
+  18. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (submitted) Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations._Sustainability Science_
   19. Ji, Z., Gong, Y., **Tian, J.,**  Tong, Z., & Sun, Y. (submitted) Research on the effects of second-order climate beliefs on environmental communication behavior: Mediating role of environmental discussion efficacy. _Journal of Environmental Psychology_
 <br><br>
 
