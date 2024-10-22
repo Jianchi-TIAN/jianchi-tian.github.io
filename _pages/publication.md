@@ -26,7 +26,7 @@ redirect_from:
 ======
   12. **Tian, J.,** Gong, Y., Li, Y., Sun, Y. (Under Review). Interpersonal environmental communication promotes pro-environmental behaviors: a systematic examination across time and groups. _Journal of Environmental Management_
   13. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Weather, Climate, and Society_
-  14. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (submitted) Artificial Intelligence’s Understanding of the Human-Nature Relationship. _Science Advances_
+  14. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (submitted) Artificial Intelligence’s Understanding of the Human-Nature Relationship. _Global Environmental Change_
   15. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (submitted). Communicating environmental information leads to increased climate policy support. _Climatic Change_
   16. Li, Y., Liu, H., **Tian, J.,** Gong, Y., Sun, Y. (submitted) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Journal of Environmental Psychology_
   17. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (submitted) Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations. _Sustainability Science_
