@@ -28,10 +28,10 @@ redirect_from:
   13. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Weather, Climate, and Society_
   14. Ji, Z., Gong, Y., **Tian, J.,**  Tong, Z., & Sun, Y. (Under Review) Research on the effects of second-order climate beliefs on environmental communication behavior: Mediating role of environmental discussion efficacy. _Journal of Environmental Psychology_
   15. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (Under Review) Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations. _Sustainability Science_
-  16. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship. _Global Environmental Change_
-  17. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support. _Climatic Change_
+  16. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
+  17. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support.
   18. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
-  19. Li, Y., Liu, H., **Tian, J.,** Gong, Y., Sun, Y. (working paper) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Journal of Environmental Psychology_
+  19. Li, Y., Liu, H., **Tian, J.,** Gong, Y., Sun, Y. (working paper) Perceived fairness during extreme weather events enhances public acceptability of climate policies.
 <br><br>
 
 <span style="font-size: 0.8em;">Conferences Papers</span>
