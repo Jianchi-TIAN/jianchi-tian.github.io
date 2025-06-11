@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="font-size: 0.8em;">Journal Articles</span>
 ======
-  1. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations. _Sustainability Science_ **(SCI/SSCI, Q1, IF = 6.8)**
+  1. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (2025). Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations. _Sustainability Science_ **(SCI/SSCI, Q1, IF = 6.8)**
   2. **Tian, J.,** Li, Y., Sun, Y., Yang, B., & Chen, X. (2024). Warming climate apathy to mitigate the disparity in climate policy support across distinct income strata. _Energy Policy, 192_, 114245. **(SCI/SSCI, Q1, IF = 9.3)** [[link]](https://doi.org/10.1016/j.enpol.2024.114245){:target="_blank"}
   3. Zong, X.#, **Tian, J.#,** Zheng, X., Tong, Z., She, S., & Sun, Y. (2024). Influence of climate change beliefs on adolescent food saving behavior: mechanisms mediating environmental concerns. _Environment, Development and Sustainability_, 1-19. **(SCI/SSCI, Q1, IF = 4.9)** [[link]](https://doi.org/10.1007/s10668-023-04454-9){:target="_blank"}
   4. **Tian, J.,** Gong, Y., Li, Y., Sun, Y., & Chen, X. (2023). Children-led environmental communication fosters their own and parents' conservation behavior. _Sustainable Production and Consumption, 42_, 322-334. **(SCI/SSCI, Q1, IF = 12.1)** [[link]](https://doi.org/10.1016/j.spc.2023.10.006){:target="_blank"}
