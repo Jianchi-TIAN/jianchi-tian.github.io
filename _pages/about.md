@@ -11,7 +11,7 @@ I am a PhD candidate from the State Key Laboratory of Cognitive Science and Ment
 
 In the first three years of my doctoral program supervised by Prof.Yan Sun at IPCAS, I led a series of studies exploring pathways to enhance public support for climate policies and promote pro-environmental behaviors. My work primarily integrates psychological theory and communication strategies, with a particular focus on applying advanced statistical techniques, such as machine learning and psychological network analysis. Currently, my research is focused on designing innovative behavioral experiments aimed at simulating and predicting climate actions at the individual, group, and national levels. I am particularly interested in understanding how different communication strategies and policy interventions can be tailored to accelerate climate action across various contexts.
 
-Now, I am looking for a postdoctoral research fellow position starting in 2026.
+Now, I am looking for a postdoctoral research fellow position starting in Fall 2026/2027.
 
 <span style="font-size: 0.8em;">My research interests include:</span>
 ======
