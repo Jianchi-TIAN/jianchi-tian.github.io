@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="font-size: 0.8em;">Journal Articles</span>
 ======
-  1. Ji, Z., Gong, Y., Tian, J., Tong, Z., Tian, X., Sun, Y. (2025). The effects of second-order climate beliefs on environmental communication behavior: The mediating role of environmental discussion efficacy. _Journal of Environmental Psychology_ **(SCI/SSCI, Q1, 5-year IF = 8.7)** [[link]](https://doi.org/10.1016/j.jenvp.2025.102746){:target="_blank"}
+  1. Ji, Z., Gong, Y., **Tian, J.,** Tong, Z., Tian, X., Sun, Y. (2025). The effects of second-order climate beliefs on environmental communication behavior: The mediating role of environmental discussion efficacy. _Journal of Environmental Psychology_ **(SCI/SSCI, Q1, 5-year IF = 8.7)** [[link]](https://doi.org/10.1016/j.jenvp.2025.102746){:target="_blank"}
   2. Li, Y., Liu, H., **Tian, J.,** Gong, Y., Sun, Y. (2025). Enhancing Eco-friendly Product Purchase through Connectedness to Nature: The Role of Mediating Mechanisms. _International Journal of Consumer Studies_ **(SCI/SSCI, Q1, 5-year IF = 9.7)**
   3. **Tian, J.,** Gong, Y., Zeng, C., Tian, X., Li, Y., Zheng, X., Sun, Y. (2025). Interpersonal environmental communication promotes pro-environmental behaviors: a systematic examination across time and groups. _Journal of Environmental Management_ **(SCI/SSCI, Q1, IF = 8.4)** [[link]](https://doi.org/10.1016/j.jenvman.2025.126191){:target="_blank"}
   4. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (2025). Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations. _Sustainability Science_ **(SCI/SSCI, Q1, IF = 5.3)** [[link]](https://doi.org/10.1007/s11625-025-01710-x){:target="_blank"}
@@ -28,8 +28,7 @@ redirect_from:
 
 <span style="font-size: 0.8em;">Papers (Under Review/Submitted)</span>
 ======
-  15. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Weather, Climate, and Society_
-  16. Ji, Z.#, Gong, Y.#, **Tian, J.,**  Tong, Z., & Sun, Y. (Under Review) Research on the effects of second-order climate beliefs on environmental communication behavior: Mediating role of environmental discussion efficacy. _Journal of Environmental Psychology_
+  16. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Weather, Climate, and Society_
   17. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
   18. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support.
   19. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
