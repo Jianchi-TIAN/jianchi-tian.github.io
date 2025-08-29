@@ -9,12 +9,14 @@ redirect_from:
 
 I am a PhD candidate from the State Key Laboratory of Cognitive Science and Mental Health, [Institute of Psychology](http://english.psych.cas.cn/au/){:target="_blank"}, [Chinese Academy of Sciences](https://english.cas.cn/){:target="_blank"} (CAS) and the Department of Psychology at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/){:target="_blank"} (UCAS). I obtained my BS in Applied Psychology in 2021 from [Nanchang University](https://english.ncu.edu.cn/){:target="_blank"} (NCU).
 
-In the first three years of my doctoral program supervised by Prof.Yan Sun at IPCAS, I led a series of studies exploring pathways to enhance public support for climate policies and promote pro-environmental behaviors. My work primarily integrates psychological theory and communication strategies, with a particular focus on applying advanced statistical techniques, such as machine learning and psychological network analysis. Currently, my research is focused on designing innovative behavioral experiments aimed at simulating and predicting climate actions at the individual, group, and national levels. I am particularly interested in understanding how different communication strategies and policy interventions can be tailored to accelerate climate action across various contexts.
+My doctoral research centres on understanding and promoting public engagement with climate action and policy. I have led a series of studies examining pathways to improve public support for climate policies and to encourage pro-environmental behaviours. For example, my work integrates theories from environmental psychology with communication strategies, while employing advanced analytical techniques such as machine learning and psychological network analysis. I have also been responsible for projects assessing the environmental implications of AI and exploring how AI can be used to foster pro-environmental behaviour.
 
-Now, I am looking for a postdoctoral research fellow position starting in Fall 2026/2027.
+At present, my research focuses on the design of innovative behavioural game experiments that simulate and predict climate-related actions at the individual, group, and national levels. My specific research interests include:
+
+I am currently seeking a postdoctoral research fellowship to begin in Autumn 2027.
 
 <span style="font-size: 0.8em;">My research interests include:</span>
 ======
-* Improving public's climate actions and policy support by using low-cost tools
-* Exploring how to improve countries' climate actions by using behavioral experiments
-* Covering inequality in public's climate change psychology and behaviors
+* Designing behavioural game experiments to investigate climate action.
+* Examining inequality in climate-related psychology and behaviour.
+* Developing low-cost tools to enhance public support for climate policies and action.
