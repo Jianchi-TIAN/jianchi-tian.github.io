@@ -29,9 +29,11 @@ redirect_from:
 <span style="font-size: 0.8em;">Papers (Under Review/Submitted)</span>
 ======
   16. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Weather, Climate, and Society_
-  17. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
-  18. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support.
-  19. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
+  17. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (Submitted) Addressing the public cost-benefit dilemma requires collective effort._Nature_
+  18. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
+  19. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (working paper) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
+  20. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support.
+  21. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
 <br><br>
 
 <span style="font-size: 0.8em;">Conferences Papers</span>
