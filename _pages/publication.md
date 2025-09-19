@@ -32,8 +32,9 @@ redirect_from:
   17. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (Submitted) Addressing the public cost-benefit dilemma requires collective effort._Nature_
   18. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
   19. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (working paper) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
-  20. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support.
-  21. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
+  20. Wang, Y., **Tian, J.,** Sun, Y. (working paper) From Costs to Fairness: How Income Shapes Public Support for Climate Policies.
+  21. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support.
+  22. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
 <br><br>
 
 <span style="font-size: 0.8em;">Conferences Papers</span>
