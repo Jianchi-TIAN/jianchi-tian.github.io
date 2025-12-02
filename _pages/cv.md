@@ -42,9 +42,10 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
   
 <span style="font-size: 0.8em;">Research Experiences</span>
 ======
-  1. **Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._
-  2. **Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._
-  3. **Collaborator**. China Provincial and ministerial-level scientific research training program. _Research on the construction of a dynamic assessment system for college students’ psychological crisis._
+  1. 2025 China Association for Science and Technology Youth Science and Technology Talent Cultivation Project: Doctoral Student Special Program _**(One of the three members of the Chinese Psychological Society)**_.
+  2. **Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._
+  3. **Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._
+  4. **Collaborator**. China Provincial and ministerial-level scientific research training program. _Research on the construction of a dynamic assessment system for college students’ psychological crisis._
 
 
 <span style="font-size: 0.8em;">Professional Affiliations and Memberships</span>
