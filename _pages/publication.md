@@ -31,7 +31,7 @@ redirect_from:
   16. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Weather, Climate, and Society_
   17. **Tian, J.,** Gong, Y., Li, Y., Lee, T. M., & Sun, Y. (Under Review). The climate minds among different social class: interpersonal communication, risk perceptions and climate policy support.
   18. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (Under Review) Addressing the public cost-benefit dilemma requires collective effort.
-  19. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (Under Review) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
+  19. **Tian, J.,** Li, J., Sun, Y. (Under Review) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
   20. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (working paper) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
   21. Wang, Y., **Tian, J.,** Sun, Y. (working paper) From Costs to Fairness: How Income Shapes Public Support for Climate Policies.
   22. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
