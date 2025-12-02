@@ -29,7 +29,7 @@ redirect_from:
 <span style="font-size: 0.8em;">Papers (Under Review/Submitted)</span>
 ======
   16. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies. _Weather, Climate, and Society_
-  17. **Tian, J.,** Gong, Y., Lee, T. M., & Sun, Y. (working paper). Communicating environmental information leads to increased climate policy support.
+  17. **Tian, J.,** Gong, Y., Li, Y., Lee, T. M., & Sun, Y. (working paper). The climate minds among different social class: interpersonal communication, risk perceptions and climate policy support.
   18. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (working paper) Addressing the public cost-benefit dilemma requires collective effort.
   19. **Tian, J.,** Dewitte, S., Zeng, C., Lee, T. M., Pan, R., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
   20. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (working paper) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
