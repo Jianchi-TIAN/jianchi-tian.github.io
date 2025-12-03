@@ -11,7 +11,7 @@ I am a PhD candidate from the State Key Laboratory of Cognitive Science and Ment
 
 My doctoral research centres on understanding and promoting public engagement with climate action and policy. I have led a series of studies examining pathways to improve public support for climate policies and to encourage pro-environmental behaviours. For example, my work integrates theories from environmental psychology with communication strategies, while employing advanced analytical techniques such as machine learning and psychological network analysis. I have also been responsible for projects assessing the environmental implications of AI and exploring how AI can be used to foster pro-environmental behaviour.
 
-At present, my research focuses on the design of innovative behavioural game experiments that simulate and predict climate-related actions at the individual, group, and national levels. My specific research interests include:
+At present, my research focuses on the design of innovative behavioural game experiments that simulate and predict climate-related actions at the individual, group, and national levels.
 
 I am currently seeking a postdoctoral research fellowship to begin in Autumn 2027.
 
