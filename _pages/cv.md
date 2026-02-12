@@ -61,6 +61,7 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
 * _Energy Research & Social Science_
 * _Humanities and Social Sciences Communications_
 * _Discover Sustainability_
+* _Environmental Research Communications_
 * _Scientific Reports_
 * _Frontiers in Psychology_
   
