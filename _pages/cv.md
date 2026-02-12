@@ -42,10 +42,11 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
   
 <span style="font-size: 0.8em;">Research Experiences</span>
 ======
-  1. **Chinese Psychological Society: 3 awardees nationwide**. China Association for Science and Technology (CAST). _National Youth Talent Training Program – Doctoral Fellowship._
-  2. **Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._
-  3. **Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._
-  4. **Collaborator**. China Provincial and ministerial-level scientific research training program. _Research on the construction of a dynamic assessment system for college students’ psychological crisis._
+  1. **Principal Investigator**. China National Committee for UNESCO’s the Man and Biosphere Programme. _National Youth Talent Supporting Program_. 
+  2. **Chinese Psychological Society: 3 awardees nationwide**. China Association for Science and Technology (CAST). _National Youth Talent Training Program – Doctoral Fellowship._
+  3. **Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._
+  4. **Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._
+  5. **Collaborator**. China Provincial and ministerial-level scientific research training program. _Research on the construction of a dynamic assessment system for college students’ psychological crisis._
 
 
 <span style="font-size: 0.8em;">Professional Affiliations and Memberships</span>
