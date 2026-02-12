@@ -43,7 +43,7 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
 <span style="font-size: 0.8em;">Research Experiences</span>
 ======
   1. **Principal Investigator**. China National Committee for UNESCO’s the Man and Biosphere Programme. _National Youth Talent Supporting Program_. 
-  2. **Chinese Psychological Society: 3 awardees nationwide**. China Association for Science and Technology (CAST). _National Youth Talent Training Program – Doctoral Fellowship._
+  2. **Principal Investigator** (Chinese Psychological Society: 3 awardees nationwide). China Association for Science and Technology (CAST). _National Youth Talent Training Program – Doctoral Fellowship._
   3. **Collaborator**. Ministry of Ecology and Environment of China (MEE) Research Project. _Assessing the Effects of Central Atmospheric Supervision and Assistance on the Modernization of Local Environmental Governance Systems and Governance Capacity._
   4. **Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._
   5. **Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._
