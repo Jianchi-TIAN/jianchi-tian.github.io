@@ -12,7 +12,7 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
 
 <span style="font-size: 0.8em;">Education</span>
 ======
-* Ph.D in University of Chinese of Academy of Sciences, 2021 (-2026)
+* Ph.D in University of Chinese of Academy of Sciences, 2021 (-2027)
 * B.S. in Nanchang University, 2017-2021
 
 
