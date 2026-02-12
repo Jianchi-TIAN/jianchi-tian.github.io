@@ -20,3 +20,4 @@ I am currently seeking a postdoctoral research fellowship to begin in Autumn 202
 * Designing behavioural game experiments to investigate climate action.
 * Examining inequality in climate-related psychology and behaviour.
 * Developing low-cost tools to enhance public support for climate policies and action.
+* Investigating the impact of nature exposure (e.g., EVI, NDVI, air quality) on mental health by using satellite remote sensing technology.
