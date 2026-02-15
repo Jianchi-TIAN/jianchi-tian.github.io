@@ -13,7 +13,7 @@ My doctoral research centres on understanding and promoting public engagement wi
 
 At present, my research focuses on the design of innovative behavioural game experiments that simulate and predict climate-related actions at the individual, group, and national levels; on the relationships between nature and mental health.
 
-I am currently seeking a postdoctoral research fellowship to begin in Autumn 2027.
+I am currently seeking a postdoctoral research position to begin in Autumn 2027.
 
 <span style="font-size: 0.8em;">My research interests include:</span>
 ======
