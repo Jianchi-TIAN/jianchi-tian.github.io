@@ -28,13 +28,14 @@ redirect_from:
 
 <span style="font-size: 0.8em;">Papers (Under Review/Submitted)</span>
 ======
-  16. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies.
+  16. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (Under Review). Capturing Additive, Nonlinear, and Conditional Processes in Climate Change Attitudes: Evidence from Reverse Intergenerational Influence.
   17. **Tian, J.,** Gong, Y., Li, Y., Lee, T. M., & Sun, Y. (Under Review). The climate minds among different social class: interpersonal communication, risk perceptions and climate policy support.
-  18. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (Under Review) Addressing the public cost-benefit dilemma requires collective effort.
-  19. **Tian, J.,** Li, J., Sun, Y. (Under Review) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
-  20. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (working paper) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
-  21. Wang, Y., **Tian, J.,** Sun, Y. (Under reivew) From Costs to Fairness: How Income Shapes Public Support for Climate Policies.
-  22. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (working paper). Uncovering Complex Relationships: Advancing Climate Change Research with Bayesian Kernel Machine Regression.
+  18. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies.
+  19. Wang, Y., **Tian, J.,** Sun, Y. (Under reivew) From Costs to Fairness: How Income Shapes Public Support for Climate Policies.
+  20. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (working paper) Addressing the public cost-benefit dilemma requires collective effort.
+  21. **Tian, J.,** Li, J., Sun, Y. (working paper) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
+  22. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (working paper) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
+  
 <br><br>
 
 <span style="font-size: 0.8em;">Conferences Papers</span>
