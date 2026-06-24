@@ -13,9 +13,8 @@ My doctoral research centres on understanding and promoting public engagement wi
 
 I am currently seeking a postdoctoral research position to begin in Autumn 2027.
 
-<span style="font-size: 0.8em;">My research interests include:</span>
+<span style="font-size: 0.8em;">My current research interests include:</span>
 ======
-* Investigating the impact of nature exposure (e.g., EVI, NDVI, air quality) on mental health by using satellite remote sensing technology.
+* Investigating the impact of nature exposure and climate change on mental health using interdisciplinary approaches that integrate psychology and geographic sciences.
 * Examining inequality in climate-related psychology and behaviour.
 * Developing low-cost tools to enhance public support for climate policies and action.
-* Designing behavioural game experiments to investigate climate action.
