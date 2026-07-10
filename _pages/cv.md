@@ -42,8 +42,8 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
   
 <span style="font-size: 0.8em;">Research Experiences</span>
 ======
-  1. **Principal Investigator**. China National Committee for UNESCO’s the Man and Biosphere Programme. _National Youth Talent Supporting Program_. 
-  2. **Principal Investigator** (Chinese Psychological Society: 3 awardees nationwide). China Association for Science and Technology (CAST). _National Youth Talent Training Program – Doctoral Fellowship._
+  1. **Principal Investigator** (One of the 10 funded projects nationwide). China National Committee for UNESCO’s the Man and Biosphere Programme National Youth Talent Supporting Program. _Research on the Assessment of Ecological Civilization Literacy of Tourists in Biosphere Reserves and the Enhancement Strategies Enabled by AI._
+  2. **Principal Investigator** (Chinese Psychological Society: 3 awardees nationwide). China Association for Science and Technology (CAST) National Youth Talent Doctoral Special Program.
   3. **Collaborator**. Ministry of Ecology and Environment of China (MEE) Research Project. _Assessing the Effects of Central Atmospheric Supervision and Assistance on the Modernization of Local Environmental Governance Systems and Governance Capacity._
   4. **Collaborator**. International Energy Agency Greenhouse Gas R&D Programme. _Carbon Capture, Utilisation & Storage (CCUS) and Public Perception._
   5. **Principal Investigator**. China National University Student Innovation & Entrepreneurship Development Program. _Compliance with Laws or Social Pressure: Research on Individual Social Judgment and Its Mechanisms in the Context of COVID-19._
@@ -62,6 +62,8 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
 * _Humanities and Social Sciences Communications_
 * _Discover Sustainability_
 * _Environmental Research Communications_
+* _Environmental Sciences Europe_
 * _Scientific Reports_
 * _Frontiers in Psychology_
+* _Frontiers in Public Health_
   
