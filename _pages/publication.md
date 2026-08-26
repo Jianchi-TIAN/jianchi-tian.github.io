@@ -10,9 +10,9 @@ redirect_from:
 
 <span style="font-size: 0.8em;">Journal Articles</span>
 ======
-  1. Wang, Y.#, **Tian, J.#,** Sun, Y. From Costs to Fairness: How Income Shapes Public Support for Climate Policies. _Carbon Footprint_.
-  2. Ji, Z., Gong, Y., **Tian, J.,** Tong, Z., Tian, X., Sun, Y. (2025). The effects of second-order climate beliefs on environmental communication behavior: The mediating role of environmental discussion efficacy. _Journal of Environmental Psychology_ **(SCI/SSCI, Q1, 5-year IF = 8.7)** [[link]](https://doi.org/10.1016/j.jenvp.2025.102746){:target="_blank"}
-  3. Li, Y., Liu, H., **Tian, J.,** Gong, Y., Sun, Y. (2025). Enhancing Eco-friendly Product Purchase through Connectedness to Nature: The Role of Mediating Mechanisms. _International Journal of Consumer Studies_ **(SCI/SSCI, Q1, 5-year IF = 9.7)**
+  1. Li, Y., **Tian, J.,** Liu, H., Gong, Y., Sun, Y. (2026). Enhancing Eco-friendly Product Purchase through Connectedness to Nature: The Role of Mediating Mechanisms. _International Journal of Consumer Studies_ **(SCI/SSCI, Q1, 5-year IF = 9.7)**
+  2. Wang, Y.#, **Tian, J.#,** Sun, Y. From Costs to Fairness: How Income Shapes Public Support for Climate Policies. _Carbon Footprint_.
+  3. Ji, Z., Gong, Y., **Tian, J.,** Tong, Z., Tian, X., Sun, Y. (2025). The effects of second-order climate beliefs on environmental communication behavior: The mediating role of environmental discussion efficacy. _Journal of Environmental Psychology_ **(SCI/SSCI, Q1, 5-year IF = 8.7)** [[link]](https://doi.org/10.1016/j.jenvp.2025.102746){:target="_blank"}
   4. **Tian, J.,** Gong, Y., Zeng, C., Tian, X., Li, Y., Zheng, X., Sun, Y. (2025). Interpersonal environmental communication promotes pro-environmental behaviors: a systematic examination across time and groups. _Journal of Environmental Management_ **(SCI/SSCI, Q1, IF = 8.4)** [[link]](https://doi.org/10.1016/j.jenvman.2025.126191){:target="_blank"}
   5. Ji, Z., **Tian, J.,** Gong, Y., Li, Y., & Sun, Y. (2025). Factors Influencing Public Support for Individual Low-carbon Behavior Reward System in China: The Intertemporally Stabilizing Predictive Role of Climate Change Perceptions and Macroeconomic Expectations. _Sustainability Science_ **(SCI/SSCI, Q1, IF = 5.3)** [[link]](https://doi.org/10.1007/s11625-025-01710-x){:target="_blank"}
   6. **Tian, J.,** Li, Y., Sun, Y., Yang, B., & Chen, X. (2024). Warming climate apathy to mitigate the disparity in climate policy support across distinct income strata. _Energy Policy, 192_, 114245. **(SCI/SSCI, Q1, IF = 9.3)** [[link]](https://doi.org/10.1016/j.enpol.2024.114245){:target="_blank"}
@@ -32,10 +32,10 @@ redirect_from:
   17. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (Under Review). Capturing Additive, Nonlinear, and Conditional Processes in Climate Change Attitudes: Evidence from Reverse Intergenerational Influence.
   18. **Tian, J.,** Gong, Y., Li, Y., Lee, T. M., & Sun, Y. (Under Review). The climate minds among different social class: interpersonal communication, risk perceptions and climate policy support.
   19. Li, Y., **Tian, J.,** & Sun, Y. (Under Review) Perceived fairness during extreme weather events enhances public acceptability of climate policies.
-  20. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (Under Review) Addressing the public cost-benefit dilemma requires collective effort.
+  20. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (Submitted) Addressing the public cost-benefit dilemma requires collective effort.
   21. **Tian, J.,** Li, J., Sun, Y. (Under Review) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
-  22. **Tian, J.,** ... Sun, Y. (working paper) The impact of school greenness on adolescent depression.
-  23. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (working paper) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
+  22. **Tian, J.,** Zhang, W., Cao, Y., Zheng, H., Chen, X., Li, H., Sun, Y. (Submitted) The impact of school greenness on adolescent depression.
+  23. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (Submitted) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
   
 <br><br>
 
