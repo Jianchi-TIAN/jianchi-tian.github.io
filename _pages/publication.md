@@ -35,7 +35,7 @@ redirect_from:
   20. **Tian, J.,** Li, Y., Jiang, K., Sun, Y. (Submitted) Addressing the public cost-benefit dilemma requires collective effort.
   21. **Tian, J.,** Li, J., Sun, Y. (Under Review) Artificial Intelligence’s Understanding of the Human-Nature Relationship.
   22. **Tian, J.,** Zhang, W., Cao, Y., Zheng, H., Chen, X., Li, H., Sun, Y. (Submitted) The impact of school greenness on adolescent depression.
-  23. **Tian, J.,#** Jiang, K.,# Wei, C., Li, Y., Sun, Y. (Submitted) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
+  23. **Tian, J.,** Jiang, K., Wei, C., Li, Y., Sun, Y. (Submitted) Assessing the Feasibility of Achieving Paris Agreement Targets: Insights from the Emissions Game Paradigm.
   
 <br><br>
 
