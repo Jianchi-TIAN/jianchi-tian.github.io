@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="font-size: 0.8em;">Journal Articles</span>
 ======
-  1. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (2026, accepted). Capturing Additive, Nonlinear, and Conditional Processes in Climate Change Attitudes: Evidence from Reverse Intergenerational Influence. _Journal of Environmental Psychology_ **(SCI/SSCI, Q1, 5-year IF = 9.9)**
+  1. **Tian, J.,** Gong, Y., Sun, M., & Sun, Y. (2026). Capturing Additive, Nonlinear, and Conditional Processes in Climate Change Attitudes: Evidence from Reverse Intergenerational Influence. _Journal of Environmental Psychology_ **(SCI/SSCI, Q1, 5-year IF = 9.9)** [[link]](https://doi.org/10.1016/j.jenvp.2026.103212){:target="_blank"}
   2. Li, Y., **Tian, J.,** Liu, H., Gong, Y., Sun, Y. (2026). Enhancing Eco-friendly Product Purchase through Connectedness to Nature: The Role of Mediating Mechanisms. _International Journal of Consumer Studies_ **(SCI/SSCI, Q1, 5-year IF = 9.7)**
   3. Wang, Y.#, **Tian, J.#,** Sun, Y. From Costs to Fairness: How Income Shapes Public Support for Climate Policies. _Carbon Footprint_.
   4. Ji, Z., Gong, Y., **Tian, J.,** Tong, Z., Tian, X., Sun, Y. (2025). The effects of second-order climate beliefs on environmental communication behavior: The mediating role of environmental discussion efficacy. _Journal of Environmental Psychology_ **(SCI/SSCI, Q1, 5-year IF = 8.7)** [[link]](https://doi.org/10.1016/j.jenvp.2025.102746){:target="_blank"}
