@@ -59,6 +59,7 @@ You can [download my full CV in PDF](../files/Jianchi Tian-CV.pdf){:target="_bla
 * _Journal of Environmental Psychology_
 * _Environmental Research Letters_
 * _Energy Research & Social Science_
+* _International Journal of Consumer Studies_
 * _Humanities and Social Sciences Communications_
 * _Discover Sustainability_
 * _Environmental Research Communications_
